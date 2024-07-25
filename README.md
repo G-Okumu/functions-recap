@@ -27,7 +27,7 @@ This project is a simple web application to manage a list of items. Users can ad
 
 2. **Navigate to the project directory:**
     ```bash
-    cd item-list-management
+    cd functions-recap
     ```
 
 3. **Open the `index.html` file in your web browser:**
